@@ -1,0 +1,57 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build files
+*.log
+*.bak
+*.swp
+*.tmp
+*.out
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.so
+
+# Node.js dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.egg-info/
+
+# Java
+*.class
+target/
+
+# Go binaries
+bin/
+
+# API/Secret files
+.env
+.env.local
+config.json
+settings.json
+
+# Database files
+*.sqlite
+*.db
+
+# Log and temporary files
+*.log
+*.bak
+*.old
+*.swp
